@@ -2,8 +2,8 @@ import Vue from 'vue'
 import  Router from 'vue-router'
 import Siswa from '@/components/Siswa'
 import Kelas from '@/components/Kelas'
-import SiswaForm from "../components/Form/SiswaForm";
-import KelasForm from "../components/Form/KelasForm";
+import SiswaForm from "../components/Form/SiswaForm"
+import KelasForm from "../components/Form/KelasForm"
 
 Vue.use(Router)
 
